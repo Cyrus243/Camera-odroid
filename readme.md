@@ -2,7 +2,7 @@
 
 ## Description
 
-Ce projet consiste en la **conception et l'implémentation d'un système de vision basé sur une caméra USB** sur une plateforme Linux (Odroid-C2). Il combine des fonctionnalités avancées telles que la capture et le traitement vidéo en temps réel, la transmission vidéo via TCP/IP, le décodage de codes QR et l'infrastructure conteneurisée pour une meilleure portabilité.
+Ce projet consiste en la **conception et l'implémentation d'un système de vision basé sur une caméra USB** sur une plateforme Linux (Odroid-C2). Il combine des fonctionnalités avancées telles que la capture et le traitement vidéo en temps réel, la transmission vidéo via TCP/IP et le décodage de codes QR.
 
 ## Fonctionnalités
 
